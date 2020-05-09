@@ -1,0 +1,5 @@
+{
+    "require": {
+        "farhanwazir/laravelgooglemaps": "^2.3"
+    }
+}
